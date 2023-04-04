@@ -1,0 +1,16 @@
+.contenedor_principal{
+    width: auto;
+    margin: auto;
+    height: 1000px;
+    border: 1px solid red;
+    background-color: beige;
+}
+
+
+.contenedor_carusel{
+    width: 800px;
+    margin: auto;
+    margin-top: 60px;
+    height: 800px;
+    
+}
